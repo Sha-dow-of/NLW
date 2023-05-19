@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/977377.png" alt="Soraka rainha do gelo" width="100%" />
+  <img src=".github/RAINHA DO GELO.jpg" alt="Soraka rainha do gelo" width="100%" />
 </p>
 
 ## 🖥️ Projeto 
