@@ -1,5 +1,5 @@
   <p align="center">
-    <img scr=".github/977377.jpg" alt="Demostração da lindeza" width="100%">
+    <img scr=".github/977377.jpg" alt="Demostração da lindeza" width="100%" />
     </p>
     ## 🖥️ Projeto
 
